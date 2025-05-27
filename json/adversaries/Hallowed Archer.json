@@ -1,1 +1,43 @@
-{"name":"Hallowed Archer","tier":4,"type":"Ranged","flavor":"Spirit soldiers with sanctified bows.","tactics":["focus fire","obey","retribution","volley"],"difficulty":19,"thresholds":[{"name":"major","desc":25},{"name":"severe","desc":45}],"hp":3,"hp_scale":null,"stress":2,"attack_mod":4,"standard_attack":{"name":"Sanctified","range":"Far","damage":"4d8+8 phy"},"experiences":[],"features":[{"name":"Punish the Guilty - Passive","desc":"The Archer deals double damage to targets marked Guilty by a High Seraph."},{"name":"Divine Volley - Action","desc":"Mark a Stress to make a standard attack against up to three targets."}]}
+{
+  "name": "Hallowed Archer",
+  "tier": 4,
+  "type": "Ranged",
+  "flavor": "Spirit soldiers with sanctified bows.",
+  "tactics": [
+    "focus fire",
+    "obey",
+    "retribution",
+    "volley"
+  ],
+  "difficulty": 19,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 25
+    },
+    {
+      "name": "severe",
+      "desc": 45
+    }
+  ],
+  "hp": 3,
+  "hp_scale": null,
+  "stress": 2,
+  "attack_mod": 4,
+  "standard_attack": {
+    "name": "Sanctified",
+    "range": "Far",
+    "damage": "4d8+8 phy"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Punish the Guilty - Passive",
+      "desc": "The Archer deals double damage to targets marked Guilty by a High Seraph."
+    },
+    {
+      "name": "Divine Volley - Action",
+      "desc": "Mark a Stress to make a standard attack against up to three targets."
+    }
+  ]
+}

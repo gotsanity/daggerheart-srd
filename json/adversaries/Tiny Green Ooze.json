@@ -1,1 +1,28 @@
-{"name":"Tiny Green Ooze","tier":1,"type":"Skulk","flavor":"A small moving mound of translucent green slime.","tactics":["camouflage","creep up"],"difficulty":14,"thresholds":[],"hp":2,"hp_scale":null,"stress":1,"attack_mod":-1,"standard_attack":{"name":"Ooze","range":"Melee","damage":"1d4+1 mag"},"experiences":[],"features":[{"name":"Acidic Form - Passive","desc":"When the Ooze makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP."}]}
+{
+  "name": "Tiny Green Ooze",
+  "tier": 1,
+  "type": "Skulk",
+  "flavor": "A small moving mound of translucent green slime.",
+  "tactics": [
+    "camouflage",
+    "creep up"
+  ],
+  "difficulty": 14,
+  "thresholds": [],
+  "hp": 2,
+  "hp_scale": null,
+  "stress": 1,
+  "attack_mod": -1,
+  "standard_attack": {
+    "name": "Ooze",
+    "range": "Melee",
+    "damage": "1d4+1 mag"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Acidic Form - Passive",
+      "desc": "When the Ooze makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP."
+    }
+  ]
+}

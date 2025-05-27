@@ -1,1 +1,42 @@
-{"name":"Elite Soldier","tier":2,"type":"Standard","flavor":"An armored squire or experienced commoner looking to advance.","tactics":["gain glory","keep order","make alliances"],"difficulty":15,"thresholds":[{"name":"major","desc":9},{"name":"severe","desc":18}],"hp":4,"hp_scale":null,"stress":3,"attack_mod":1,"standard_attack":{"name":"Spear","range":"Very Close","damage":"2d8+4 phy"},"experiences":[],"features":[{"name":"Reinforce - Action","desc":"Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress."},{"name":"Vassal’s Loyalty - Reaction","desc":"When the Soldier is within Very Close range of a knight or other noble who would take damage, you can mark a Stress to move into Melee range of them and take the damage instead."}]}
+{
+  "name": "Elite Soldier",
+  "tier": 2,
+  "type": "Standard",
+  "flavor": "An armored squire or experienced commoner looking to advance.",
+  "tactics": [
+    "gain glory",
+    "keep order",
+    "make alliances"
+  ],
+  "difficulty": 15,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 9
+    },
+    {
+      "name": "severe",
+      "desc": 18
+    }
+  ],
+  "hp": 4,
+  "hp_scale": null,
+  "stress": 3,
+  "attack_mod": 1,
+  "standard_attack": {
+    "name": "Spear",
+    "range": "Very Close",
+    "damage": "2d8+4 phy"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Reinforce - Action",
+      "desc": "Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress."
+    },
+    {
+      "name": "Vassal’s Loyalty - Reaction",
+      "desc": "When the Soldier is within Very Close range of a knight or other noble who would take damage, you can mark a Stress to move into Melee range of them and take the damage instead."
+    }
+  ]
+}

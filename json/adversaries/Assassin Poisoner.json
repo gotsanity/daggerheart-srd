@@ -1,1 +1,47 @@
-{"name":"Assassin Poisoner","tier":2,"type":"Skulk","flavor":"A cunning scoundrel skilled in both poisons and ambushing.","tactics":["anticipate","get paid","kill","taint food and water"],"difficulty":14,"thresholds":[{"name":"major","desc":8},{"name":"severe","desc":16}],"hp":4,"hp_scale":null,"stress":4,"attack_mod":3,"standard_attack":{"name":"Poisoned","range":"Close","damage":"2d8+1 phy"},"experiences":[],"features":[{"name":"Grindeloth Venom - Passive","desc":"Targets who mark HP from the Assassin’s attacks are Vulnerable until they clear a HP."},{"name":"Out of Nowhere - Passive","desc":"The Assassin has advantage on attacks if they are Hidden."},{"name":"Fumigation - Action","desc":"Drop a smoke bomb that fills the air within Close range with smoke, Dizzilying all targets in this area. Dizzied targets have disadvantage on their next action roll, then clear the condition."}]}
+{
+  "name": "Assassin Poisoner",
+  "tier": 2,
+  "type": "Skulk",
+  "flavor": "A cunning scoundrel skilled in both poisons and ambushing.",
+  "tactics": [
+    "anticipate",
+    "get paid",
+    "kill",
+    "taint food and water"
+  ],
+  "difficulty": 14,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 8
+    },
+    {
+      "name": "severe",
+      "desc": 16
+    }
+  ],
+  "hp": 4,
+  "hp_scale": null,
+  "stress": 4,
+  "attack_mod": 3,
+  "standard_attack": {
+    "name": "Poisoned",
+    "range": "Close",
+    "damage": "2d8+1 phy"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Grindeloth Venom - Passive",
+      "desc": "Targets who mark HP from the Assassin’s attacks are Vulnerable until they clear a HP."
+    },
+    {
+      "name": "Out of Nowhere - Passive",
+      "desc": "The Assassin has advantage on attacks if they are Hidden."
+    },
+    {
+      "name": "Fumigation - Action",
+      "desc": "Drop a smoke bomb that fills the air within Close range with smoke, Dizzilying all targets in this area. Dizzied targets have disadvantage on their next action roll, then clear the condition."
+    }
+  ]
+}

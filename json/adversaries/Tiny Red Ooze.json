@@ -1,1 +1,28 @@
-{"name":"Tiny Red Ooze","tier":1,"type":"Skulk","flavor":"A small moving mound of translucent flaming red slime.","tactics":["blaze","camouflage"],"difficulty":11,"thresholds":[],"hp":2,"hp_scale":null,"stress":1,"attack_mod":-1,"standard_attack":{"name":"Ooze","range":"Melee","damage":"1d4+2 mag"},"experiences":[],"features":[{"name":"Burning - Reaction","desc":"When a creature within Melee range deals damage to the Ooze, they take 1d6 direct magic damage."}]}
+{
+  "name": "Tiny Red Ooze",
+  "tier": 1,
+  "type": "Skulk",
+  "flavor": "A small moving mound of translucent flaming red slime.",
+  "tactics": [
+    "blaze",
+    "camouflage"
+  ],
+  "difficulty": 11,
+  "thresholds": [],
+  "hp": 2,
+  "hp_scale": null,
+  "stress": 1,
+  "attack_mod": -1,
+  "standard_attack": {
+    "name": "Ooze",
+    "range": "Melee",
+    "damage": "1d4+2 mag"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Burning - Reaction",
+      "desc": "When a creature within Melee range deals damage to the Ooze, they take 1d6 direct magic damage."
+    }
+  ]
+}

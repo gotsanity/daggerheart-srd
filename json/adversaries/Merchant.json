@@ -1,1 +1,43 @@
-{"name":"Merchant","tier":1,"type":"Social","flavor":"A finely dressed trader with a keen eye for financial gain.","tactics":["buy low and sell high","create demand","inflate prices","seek profit"],"difficulty":12,"thresholds":[{"name":"major","desc":4},{"name":"severe","desc":8}],"hp":3,"hp_scale":null,"stress":3,"attack_mod":-4,"standard_attack":{"name":"Club","range":"Melee","damage":"1d4+1 phy"},"experiences":[],"features":[{"name":"Preferential Treatment - Passive","desc":"A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant."},{"name":"The Runaround - Passive","desc":"When a PC rolls a 14 or lower on a Presence Roll made against the Merchant, they must mark a Stress."}]}
+{
+  "name": "Merchant",
+  "tier": 1,
+  "type": "Social",
+  "flavor": "A finely dressed trader with a keen eye for financial gain.",
+  "tactics": [
+    "buy low and sell high",
+    "create demand",
+    "inflate prices",
+    "seek profit"
+  ],
+  "difficulty": 12,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 4
+    },
+    {
+      "name": "severe",
+      "desc": 8
+    }
+  ],
+  "hp": 3,
+  "hp_scale": null,
+  "stress": 3,
+  "attack_mod": -4,
+  "standard_attack": {
+    "name": "Club",
+    "range": "Melee",
+    "damage": "1d4+1 phy"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Preferential Treatment - Passive",
+      "desc": "A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant."
+    },
+    {
+      "name": "The Runaround - Passive",
+      "desc": "When a PC rolls a 14 or lower on a Presence Roll made against the Merchant, they must mark a Stress."
+    }
+  ]
+}

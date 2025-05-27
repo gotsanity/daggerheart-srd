@@ -1,1 +1,55 @@
-{"name":"Construct","tier":1,"type":"Solo","flavor":"A roughly humanoid being of stone and steel, assembled and animated by magic.","tactics":["destroy environment","serve creator","smash target","trample groups"],"difficulty":13,"thresholds":[{"name":"major","desc":7},{"name":"severe","desc":15}],"hp":9,"hp_scale":null,"stress":4,"attack_mod":4,"standard_attack":{"name":"Fist","range":"Melee","damage":"1d20 phy"},"experiences":[],"features":[{"name":"Relentless (2) - Passive","desc":"The Construct can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."},{"name":"Weak Structure - Passive","desc":"When the Construct marks HP from physical damage, they must mark an additional HP."},{"name":"Trample - Action","desc":"Mark a Stress to make an attack against all targets in the Construct’s path when they move. Targets the Construct succeeds against take 1d8 physical damage."},{"name":"Overload - Reaction","desc":"Before rolling damage for the Construct’s attack, you can mark a Stress to gain a +10 bonus to the damage roll. The Construct can then take the spotlight again."},{"name":"Death Quake - Reaction","desc":"When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage."}]}
+{
+  "name": "Construct",
+  "tier": 1,
+  "type": "Solo",
+  "flavor": "A roughly humanoid being of stone and steel, assembled and animated by magic.",
+  "tactics": [
+    "destroy environment",
+    "serve creator",
+    "smash target",
+    "trample groups"
+  ],
+  "difficulty": 13,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 7
+    },
+    {
+      "name": "severe",
+      "desc": 15
+    }
+  ],
+  "hp": 9,
+  "hp_scale": null,
+  "stress": 4,
+  "attack_mod": 4,
+  "standard_attack": {
+    "name": "Fist",
+    "range": "Melee",
+    "damage": "1d20 phy"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Relentless (2) - Passive",
+      "desc": "The Construct can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+    },
+    {
+      "name": "Weak Structure - Passive",
+      "desc": "When the Construct marks HP from physical damage, they must mark an additional HP."
+    },
+    {
+      "name": "Trample - Action",
+      "desc": "Mark a Stress to make an attack against all targets in the Construct’s path when they move. Targets the Construct succeeds against take 1d8 physical damage."
+    },
+    {
+      "name": "Overload - Reaction",
+      "desc": "Before rolling damage for the Construct’s attack, you can mark a Stress to gain a +10 bonus to the damage roll. The Construct can then take the spotlight again."
+    },
+    {
+      "name": "Death Quake - Reaction",
+      "desc": "When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage."
+    }
+  ]
+}

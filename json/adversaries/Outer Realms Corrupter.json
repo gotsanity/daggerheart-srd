@@ -1,1 +1,42 @@
-{"name":"Outer Realms Corrupter","tier":4,"type":"Support","flavor":"A shifting, formless mass seemingly made of chromatic light.","tactics":["confuse","distract","overwhelm"],"difficulty":19,"thresholds":[{"name":"major","desc":27},{"name":"severe","desc":47}],"hp":4,"hp_scale":null,"stress":3,"attack_mod":7,"standard_attack":{"name":"Corroding","range":"Very Close","damage":"4d8+5 mag"},"experiences":[],"features":[{"name":"Will-Shattering Touch - Passive","desc":"When a PC takes damage from the Corrupter, they lose a Hope."},{"name":"Disgorge Reality Flotsam - Action","desc":"Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."}]}
+{
+  "name": "Outer Realms Corrupter",
+  "tier": 4,
+  "type": "Support",
+  "flavor": "A shifting, formless mass seemingly made of chromatic light.",
+  "tactics": [
+    "confuse",
+    "distract",
+    "overwhelm"
+  ],
+  "difficulty": 19,
+  "thresholds": [
+    {
+      "name": "major",
+      "desc": 27
+    },
+    {
+      "name": "severe",
+      "desc": 47
+    }
+  ],
+  "hp": 4,
+  "hp_scale": null,
+  "stress": 3,
+  "attack_mod": 7,
+  "standard_attack": {
+    "name": "Corroding",
+    "range": "Very Close",
+    "damage": "4d8+5 mag"
+  },
+  "experiences": [],
+  "features": [
+    {
+      "name": "Will-Shattering Touch - Passive",
+      "desc": "When a PC takes damage from the Corrupter, they lose a Hope."
+    },
+    {
+      "name": "Disgorge Reality Flotsam - Action",
+      "desc": "Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."
+    }
+  ]
+}
