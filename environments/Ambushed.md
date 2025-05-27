@@ -1,4 +1,4 @@
-# AMBUSHED
+﻿# AMBUSHED
 
 ***Tier 1 Event***  
 *An ambush is set to catch an unsuspecting party off-guard.*  

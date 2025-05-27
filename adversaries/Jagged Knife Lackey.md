@@ -1,4 +1,4 @@
-# JAGGED KNIFE LACKEY
+﻿# JAGGED KNIFE LACKEY
 
 ***Tier 1 Minion***  
 *A thief with simple clothes and small daggers, eager to prove themselves.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 9 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -2 | **Daggers:** Melee | 2 phy  
+> **Experience:** Thief +2
 
 ## FEATURES
 

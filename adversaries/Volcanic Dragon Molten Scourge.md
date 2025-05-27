@@ -1,4 +1,4 @@
-# VOLCANIC DRAGON: MOLTEN SCOURGE
+﻿# VOLCANIC DRAGON: MOLTEN SCOURGE
 
 ***Tier 4 Solo***  
 *Engaged by their wounds, the dragon bursts into molten lava.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy  
+> **Experience:** Hunt from Above +5
 
 ## FEATURES
 

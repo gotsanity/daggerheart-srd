@@ -1,4 +1,4 @@
-# FALLEN WARLORD: REALM-BREAKER
+﻿# FALLEN WARLORD: REALM-BREAKER
 
 ***Tier 4 Solo***  
 *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy  
+> **Experience:** Conquest +3, History +2, Intimidation +3
 
 ## FEATURES
 

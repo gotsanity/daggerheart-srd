@@ -1,4 +1,4 @@
-# CAVE OGRE
+﻿# CAVE OGRE
 
 ***Tier 1 Solo***  
 *A massive humanoid who sees all sapient life as food.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  
 > **ATK:** +1 | **Club:** Very Close | 1d10+2 phy  
+> **Experience:** Throw +2
 
 ## FEATURES
 

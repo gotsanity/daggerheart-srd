@@ -1,4 +1,4 @@
-# KRAKEN
+﻿# KRAKEN
 
 ***Tier 4 Solo***  
 *A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8  
 > **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy  
+> **Experience:** Swimming +3
 
 ## FEATURES
 

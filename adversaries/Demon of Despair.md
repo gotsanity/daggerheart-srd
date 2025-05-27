@@ -1,4 +1,4 @@
-# DEMON OF DESPAIR
+﻿# DEMON OF DESPAIR
 
 ***Tier 3 Skulk***  
 *A cloaked one-creature with long limbs, seeping shadows.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 18/35 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +3 | **Miasma Bolt:** Far | 3d6+4 mag  
+> **Experience:** Manipulation +3
 
 ## FEATURES
 

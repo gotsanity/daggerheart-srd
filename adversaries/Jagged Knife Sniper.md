@@ -1,4 +1,4 @@
-# JAGGED KNIFE SNIPER
+﻿# JAGGED KNIFE SNIPER
 
 ***Tier 1 Ranged***  
 *A lanky bandit striking from cover with a shortbow.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2  
 > **ATK:** -1 | **Shortbow:** Far | 1d10+2 phy  
+> **Experience:** Stealth +2
 
 ## FEATURES
 

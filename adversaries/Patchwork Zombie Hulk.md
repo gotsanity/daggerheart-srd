@@ -1,4 +1,4 @@
-# PATCHWORK ZOMBIE HULK
+﻿# PATCHWORK ZOMBIE HULK
 
 ***Tier 1 Solo***  
 *A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3  
 > **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 phy  
+> **Experience:** Intimidation +2, Tear Things Apart +2
 
 ## FEATURES
 

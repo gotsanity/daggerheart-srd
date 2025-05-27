@@ -1,6 +1,6 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-> **Level {{ Level }} {{ Domain }} {{ Spell_or_Ability }}**  
-> **Recall Cost:** {{ Recall_Cost }}
+> **Level {{ level }} {{ domain }} {{ type }}**  
+> **Recall Cost:** {{ recall }}
 
-{{ Text }}
+{{ text }}

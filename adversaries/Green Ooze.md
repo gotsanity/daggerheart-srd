@@ -1,4 +1,4 @@
-# GREEN OOZE
+﻿# GREEN OOZE
 
 ***Tier 1 Skulk***  
 *A moving mound of translucent green slime.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2  
 > **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag  
+> **Experience:** Camouflage +3
 
 ## FEATURES
 

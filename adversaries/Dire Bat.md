@@ -1,4 +1,4 @@
-# DIRE BAT
+﻿# DIRE BAT
 
 ***Tier 3 Skulk***  
 *A winged pet endlessly loyal to their vampire owner.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy  
+> **Experience:** Bloodthirsty +3
 
 ## FEATURES
 

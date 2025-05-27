@@ -1,4 +1,4 @@
-# COURTESAN
+﻿# COURTESAN
 
 ***Tier 2 Social***  
 *An accomplished manipulator and master of the social arts.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 3 | **Stress:** 4  
 > **ATK:** -3 | **Dagger:** Melee | 1d4+3 phy  
+> **Experience:** Manipulation +3, Socialite +3
 
 ## FEATURES
 

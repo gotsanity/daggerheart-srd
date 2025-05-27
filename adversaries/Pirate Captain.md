@@ -1,4 +1,4 @@
-# PIRATE CAPTAIN
+﻿# PIRATE CAPTAIN
 
 ***Tier 1 Leader***  
 *A charismatic sea dog with an impressive hat, eager to raid and plunder.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +1 | **Cutlass:** Melee | 1d12+2 phy  
+> **Experience:** Commander +2, Sailor +3
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# DIRE WOLF
+﻿# DIRE WOLF
 
 ***Tier 1 Skulk***  
 *A large wolf with menacing teeth, seldom encountered alone.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +2 | **Claws:** Melee | 1d6+2 phy  
+> **Experience:** Keen Senses +3
 
 ## FEATURES
 

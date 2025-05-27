@@ -1,4 +1,4 @@
-# DEMONIC HOUND PACK
+﻿# DEMONIC HOUND PACK
 
 ***Tier 2 Horde (1/HP)***  
 *Unnatural hounds lit from within by hellfire.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 11/23 | **HP:** 6 | **Stress:** 3  
 > **ATK:** 0 | **Claws and Fangs:** Melee | 2d8+2 phy  
+> **Experience:** Scent Tracking +3
 
 ## FEATURES
 

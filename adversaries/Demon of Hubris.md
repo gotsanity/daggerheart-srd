@@ -1,4 +1,4 @@
-# DEMON OF HUBRIS
+﻿# DEMON OF HUBRIS
 
 ***Tier 3 Leader***  
 *A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 19 | **Thresholds:** 20/36 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +4 | **Perfect Spear:** Very Close | 3d10 phy  
+> **Experience:** Manipulation +2
 
 ## FEATURES
 

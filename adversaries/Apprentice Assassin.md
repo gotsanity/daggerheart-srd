@@ -1,4 +1,4 @@
-# APPRENTICE ASSASSIN
+﻿# APPRENTICE ASSASSIN
 
 ***Tier 2 Minion***  
 *A young trainee eager to prove themselves.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -1 | **Thrown Dagger:** Very Close | 4 phy  
+> **Experience:** Intrusion +2
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# SPECTRAL CAPTAIN
+﻿# SPECTRAL CAPTAIN
 
 ***Tier 2 Leader***  
 *A ghostly commander leading their troops beyond death.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +3 | **Longbow:** Far | 2d10+3 phy  
+> **Experience:** Ancient Knowledge +3
 
 ## FEATURES
 

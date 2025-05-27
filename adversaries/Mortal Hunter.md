@@ -1,4 +1,4 @@
-# MORTAL HUNTER
+﻿# MORTAL HUNTER
 
 ***Tier 2 Leader***  
 *An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +5 | **Tear at Flesh:** Very Close | 2d12+1 phy  
+> **Experience:** Bloodhound +3
 
 ## FEATURES
 

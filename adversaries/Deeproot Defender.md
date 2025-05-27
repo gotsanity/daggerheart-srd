@@ -1,4 +1,4 @@
-# DEEPROOT DEFENDER
+﻿# DEEPROOT DEFENDER
 
 ***Tier 1 Bruiser***  
 *A burly vegetable-person with grasping vines.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +2 | **Vines:** Close | 1d8+3 phy  
+> **Experience:** Huge +3
 
 ## FEATURES
 

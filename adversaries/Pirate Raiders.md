@@ -1,4 +1,4 @@
-# PIRATE RAIDERS
+﻿# PIRATE RAIDERS
 
 ***Tier 1 Horde (3/HP)***  
 *Seafaring scoundrels moving in a ravaging pack.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +1 | **Cutlass:** Melee | 1d8+2 phy  
+> **Experience:** Sailor +3
 
 ## FEATURES
 

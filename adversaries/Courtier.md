@@ -1,4 +1,4 @@
-# COURTIER
+﻿# COURTIER
 
 ***Tier 1 Social***  
 *An ambitious and ostentatiously dressed socialite.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 4  
 > **ATK:** -4 | **Daggers:** Melee | 1d4+2 phy  
+> **Experience:** Socialize +3
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# KNIGHT OF THE REALM
+﻿# KNIGHT OF THE REALM
 
 ***Tier 2 Leader***  
 *A decorated soldier with heavy armor and a powerful steed.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy  
+> **Experience:** Ancient Knowledge +3, High Society +2, Tactics +2
 
 ## FEATURES
 

@@ -1,7 +1,7 @@
-# LEGENDARY GLOWING RINGS
+﻿# LEGENDARY GLOWING RINGS
 
 **Trait:** Agility; **Range:** Very Close; **Damage:** d10+11 mag; **Burden:** One-Handed
 
-**Feature:** -
+**Feature:** —
 
 *Primary Weapon - Tier 4*

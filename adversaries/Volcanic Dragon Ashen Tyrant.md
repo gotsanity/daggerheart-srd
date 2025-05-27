@@ -1,4 +1,4 @@
-# VOLCANIC DRAGON: ASHEN TYRANT
+﻿# VOLCANIC DRAGON: ASHEN TYRANT
 
 ***Tier 4 Solo***  
 *A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 18 | **Thresholds:** 29/55 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +10 | **Claws and Teeth:** Close | 4d12+15 phy  
+> **Experience:** Hunt from Above +5
 
 ## FEATURES
 

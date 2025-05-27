@@ -1,4 +1,4 @@
-# GIANT MOSQUITOES
+﻿# GIANT MOSQUITOES
 
 ***Tier 1 Horde (5/HP)***  
 *Dozens of fist-sized mosquitoes, flying together for protection.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3  
 > **ATK:** -2 | **Proboscis:** Melee | 1d8+3 phy  
+> **Experience:** Camouflage +2
 
 ## FEATURES
 

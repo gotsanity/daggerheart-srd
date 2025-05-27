@@ -1,4 +1,4 @@
-# CULT ADEPT
+﻿# CULT ADEPT
 
 ***Tier 2 Support***  
 *An experienced mage wielding shadow and fear.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6  
 > **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 mag  
+> **Experience:** Fallen Lore +2, Rituals +2
 
 ## FEATURES
 

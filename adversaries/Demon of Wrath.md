@@ -1,4 +1,4 @@
-# DEMON OF WRATH
+﻿# DEMON OF WRATH
 
 ***Tier 3 Bruiser***  
 *A hulking demon with boulder-sized fists, driven by endless rage.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +3 | **Fists:** Very Close | 3d8+1 mag  
+> **Experience:** Intimidation +2
 
 ## FEATURES
 

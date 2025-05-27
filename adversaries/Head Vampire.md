@@ -1,4 +1,4 @@
-# HEAD VAMPIRE
+﻿# HEAD VAMPIRE
 
 ***Tier 3 Leader***  
 *A captivating undead dressed in aristocratic finery.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  
 > **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy  
+> **Experience:** Aristocrat +3
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# OAK TREANT
+﻿# OAK TREANT
 
 ***Tier 3 Bruiser***  
 *A sturdy animated old-growth tree.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +2 | **Branch:** Very Close | 3d8+2 phy  
+> **Experience:** Forest Knowledge +3
 
 ## FEATURES
 

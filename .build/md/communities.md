@@ -1,9 +1,10 @@
-# {{ Name|upper }}
+# {{ name|upper }}
 
-{{ Description }}
+{{ description }}
 
-*{{ Note }}*
+*{{ note }}*
 
 ## COMMUNITY FEATURE
-
-***{{ Feat_Name }}:*** {{ Feat_Text }}
+{% for feat in feats %}
+***{{ feat.name }}:*** {{ feat.text }}
+{% endfor %}

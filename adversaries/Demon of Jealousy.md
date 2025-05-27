@@ -1,4 +1,4 @@
-# DEMON OF JEALOUSY
+﻿# DEMON OF JEALOUSY
 
 ***Tier 3 Ranged***  
 *A fickle creature of spindly limbs and insatiable desires.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6  
 > **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag  
+> **Experience:** Manipulation +3
 
 ## FEATURES
 

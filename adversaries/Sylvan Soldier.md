@@ -1,4 +1,4 @@
-# SYLVAN SOLDIER
+﻿# SYLVAN SOLDIER
 
 ***Tier 1 Standard***  
 *A faerie warrior adorned in armor made of leaves and bark.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2  
 > **ATK:** 0 | **Scythe:** Melee | 1d8+1 phy  
+> **Experience:** Tracker +2
 
 ## FEATURES
 

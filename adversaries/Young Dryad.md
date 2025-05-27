@@ -1,4 +1,4 @@
-# YOUNG DRYAD
+﻿# YOUNG DRYAD
 
 ***Tier 1 Leader***  
 *An imperious tree-person leading their forest’s defenses.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2  
 > **ATK:** 0 | **Scythe:** Melee | 1d8+5 phy  
+> **Experience:** Leadership +3
 
 ## FEATURES
 

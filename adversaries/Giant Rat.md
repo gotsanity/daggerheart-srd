@@ -1,4 +1,4 @@
-# GIANT RAT
+﻿# GIANT RAT
 
 ***Tier 1 Minion***  
 *A cat-sized rodent skilled at scavenging and survival.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -4 | **Claws:** Melee | 1 phy  
+> **Experience:** Keen Senses +3
 
 ## FEATURES
 

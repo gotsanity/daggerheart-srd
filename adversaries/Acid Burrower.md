@@ -1,4 +1,4 @@
-# ACID BURROWER
+﻿# ACID BURROWER
 
 ***Tier 1 Solo***  
 *A horse-sized insect with digging claws and acidic blood.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  
 > **ATK:** +3 | **Claws:** Very Close | 1d12+2 phy  
+> **Experience:** Tremor Sense +2
 
 ## FEATURES
 

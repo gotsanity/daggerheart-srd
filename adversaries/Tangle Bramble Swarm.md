@@ -1,4 +1,4 @@
-# TANGLE BRAMBLE SWARM
+﻿# TANGLE BRAMBLE SWARM
 
 ***Tier 1 Horde (3/HP)***  
 *A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3  
 > **ATK:** 0 | **Thorns:** Melee | 1d6+3 phy  
+> **Experience:** Camouflage +2
 
 ## FEATURES
 

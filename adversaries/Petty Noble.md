@@ -1,4 +1,4 @@
-# PETTY NOBLE
+﻿# PETTY NOBLE
 
 ***Tier 1 Social***  
 *A richly dressed and adorned aristocrat brimming with hubris.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5  
 > **ATK:** -3 | **Rapier:** Melee | 1d6+1 phy  
+> **Experience:** Aristocrat +3
 
 ## FEATURES
 

@@ -1,4 +1,4 @@
-# BURNING HEART OF THE WOODS
+﻿# BURNING HEART OF THE WOODS
 
 ***Tier 3 Exploration***  
 *Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.*  

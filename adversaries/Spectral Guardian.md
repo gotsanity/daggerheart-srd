@@ -1,4 +1,4 @@
-# SPECTRAL GUARDIAN
+﻿# SPECTRAL GUARDIAN
 
 ***Tier 2 Standard***  
 *A ghostly fighter with spears and swords, anchored by duty.*  
@@ -6,6 +6,7 @@
 
 > **Difficulty:** 15 | **Thresholds:** 7/15 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +1 | **Spear:** Very Close | 2d8+1 phy  
+> **Experience:** Ancient Knowledge +2
 
 ## FEATURES
 
